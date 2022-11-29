@@ -1,4 +1,4 @@
-<h1 align="center">Rafael C. de Souza</h1><h3 align="center">Ola, eu sou um estudante de engenharia de software e um amante da web programação.</h3>
+<h1 align="center">Rafael C. de Souza</h1><h3 align="center">Ola, eu sou um estudante de engenharia de software e um amante Full Stack.</h3>
 &nbsp;<img src="https://github-readme-stats.vercel.app/api?username=rafaelcardosodesouza&show_icons=true&locale=en" alt="rafaelcardosodesouza" / ></p>
 
 <p align="center">
