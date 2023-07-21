@@ -21,7 +21,7 @@
   <a href="https://www.instagram.com/rafaelcardosodesouza/" target="_blank" style="margin-right: 15px;">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/1200px-Instagram-Icon.png" alt="rede social instagram" height="30" width="30" />
   </a>
-  <a href="https://api.whatsapp.com/send?phone=5544991771673&text=Ola%20Rafael,%20vim%20pelo%20o%20github
+  <a href="https://api.whatsapp.com/send?phone=5544920012694&text=Ola%20Rafael,%20vim%20pelo%20o%20github
 " target="_blank" style="margin-right: 15px;">
     <img align="center" src="https://png.pngtree.com/png-vector/20221018/ourmid/pngtree-whatsapp-phone-icon-png-image_6315989.png" alt="numero do whatassap" height="30" width="30" />
   </a>
