@@ -1,6 +1,6 @@
 # Rafael Cardoso de Souza
+## Futuro Engenheiro de Software com Foco no Back-End<p><img align="left" src="https://profile-counter.glitch.me/rafaelcardosodesouza/count.svg" height="20"/></p>
 
-## Futuro Engenheiro de Software com Foco no Back-End
 
 Olá! Eu sou o Rafael Cardoso de Souza, um estudante de Engenharia de Software no quarto trimestre, com o objetivo de me tornar um engenheiro de software especializado em desenvolvimento back-end.
 
@@ -31,6 +31,10 @@ Olá! Eu sou o Rafael Cardoso de Souza, um estudante de Engenharia de Software n
 - Determinado a contribuir para projetos significativos enquanto continuo minha jornada de aprendizado.
 
 Vamos juntos explorar e compartilhar ideias no empolgante mundo do desenvolvimento de software!
+
+
+
+
 
 # About
 
